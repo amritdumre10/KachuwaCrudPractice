@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kachuwa(कछुवा) is a enterprize ready application framework which is developed on a top of asp.net core. It is simply made to create a better application for better business. This is a simple project to practice [Kachuwa Framework ](https://github.com/SilentTurtle/Kachuwa) in Dot Net Core 6 MVC.
+[Kachuwa(कछुवा)](https://github.com/SilentTurtle/Kachuwa) is a enterprize ready application framework which is developed on a top of asp.net core. It is simply made to create a better application for better business. This is a simple project to practice [Kachuwa Framework ](https://github.com/SilentTurtle/Kachuwa) in Dot Net Core 6 MVC.
 
 Step 1: Clone this [repo](https://github.com/amritdumre10/KachuwaCrudPractice.git)  
 Step 2: Edit appsettings.json according to your local server  
