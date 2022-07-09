@@ -1,4 +1,4 @@
-# Dapper Simple Crud Practice
+# Kachuwa Crud Practice in .NET 6
 
 ## Overview
 
