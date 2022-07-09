@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a simple project to practice [Dapper Simple Crud](https://github.com/ericdc1/Dapper.SimpleCRUD) in Dot Net Core 6 MVC
+Kachuwa(कछुवा) is a enterprize ready application framework which is developed on a top of asp.net core. It is simply made to create a better application for better business. This is a simple project to practice [Kachuwa Framework ](https://github.com/SilentTurtle/Kachuwa) in Dot Net Core 6 MVC.
 
-Step 1: Clone this [repo](https://github.com/amritdumre10/DapperPractice.git)  
+Step 1: Clone this [repo](https://github.com/amritdumre10/KachuwaCrudPractice.git)  
 Step 2: Edit appsettings.json according to your local server  
 Step 3: Run script to create database located at wwwroot/database/dapperpractice.sql  
 Now your project is ready to run.  
