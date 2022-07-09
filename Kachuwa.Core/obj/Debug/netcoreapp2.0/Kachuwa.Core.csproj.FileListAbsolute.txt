@@ -1,0 +1,10 @@
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\bin\Debug\netcoreapp2.0\Kachuwa.Core.deps.json
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\bin\Debug\netcoreapp2.0\Kachuwa.Core.dll
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\bin\Debug\netcoreapp2.0\Kachuwa.Core.pdb
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.csproj.AssemblyReference.cache
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.AssemblyInfoInputs.cache
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.AssemblyInfo.cs
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.csproj.CoreCompileInputs.cache
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.dll
+C:\Users\Amrit\Documents\Egtkt DotNet5\Kachuwa\Kachuwa.Core\obj\Debug\netcoreapp2.0\Kachuwa.Core.pdb
